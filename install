@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rm -f ~/.local/bin/deepmosaic
+ln -s ~/Repos/DeepMosaics/cli ~/.local/bin/deepmosaic
+ls -l ~/.local/bin/deepmosaic
+
